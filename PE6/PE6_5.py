@@ -9,3 +9,6 @@ for x in vehicles:
             if i == character:
                 position.append(i)
         print(x + " contains the letter " + character + " and it is in position" + position)
+
+        #this exercise was excluded
+        
